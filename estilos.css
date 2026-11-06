@@ -68,9 +68,9 @@ a:hover {
     color: #ffffff;
 }
 /*
-1. Desafio Técnico: O mais complicado foi acertar com a classe .destaque. A margem ficava torta e o texto colado às pontas.
+1. Desafio Técnico: O mais trabalhoso foi acertar a margem na classe de destaque.
 
-2. Correção de Sintaxe: O meu erro mais típico foi esquecer-me dos pontos e vírgulas no fim das regras. 
+2. Correção de Sintaxe: Metia espaços entre o valor numerico e o px e no site não mudava nada. 
 
 3. Autoria: O src serve para dizer ao HTML onde está a imagem que queremos visuallizar no site.
 */
