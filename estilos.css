@@ -1,0 +1,76 @@
+body {
+    background-color: #0b131e;
+    color: #e2e8f0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #f59e0b;
+    font-family: 'Impact', 'Arial Black', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #38bdf8;
+    font-family: 'Trebuchet MS', sans-serif;
+    border-bottom: 2px solid #38bdf8;
+    padding-bottom: 5px;
+}
+
+.destaque {
+    background-color: #1e293b;
+    color: #f8fafc;
+    padding: 15px;
+    margin: 20px 0;
+    border-left: 5px solid #f59e0b;
+    border-radius: 4px;
+}
+
+.intro {
+    font-size: 1.1em;
+}
+
+.topico {
+    background-color: #0f172a;
+    color: #f8fafc;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #334155;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.imagem-filme {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #f59e0b;
+    border-radius: 6px;
+}
+
+a {
+    color: #f59e0b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}
+/*
+1. Desafio Técnico: O mais complicado foi acertar com a classe .destaque. A margem ficava torta e o texto colado às pontas.
+
+2. Correção de Sintaxe: O meu erro mais típico foi esquecer-me dos pontos e vírgulas no fim das regras. 
+
+3. Autoria: O src serve para dizer ao HTML onde está a imagem que queremos visuallizar no site.
+*/
